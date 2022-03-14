@@ -1,0 +1,3 @@
+{
+    "files": ["components/pages/RoomService.qml","components/common/CustomTextField.qml","main.py","components/pages/DashBoard.qml","components/pages/homepage.qml","components/common/Menus.qml","components/common/BackButton.qml","main.qml","components/common/StackViewPage.qml","components/common/Content.qml"]
+}
